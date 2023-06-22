@@ -1,0 +1,23 @@
+[
+    {
+        "Protocol": "UDP",
+        "Port": "12205",
+        "Name": "Game Port 1",
+        "Description": "Port used for main game traffic",
+        "Ref": "GamePort1"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "28900",
+        "Name": "Game Port 1",
+        "Description": "Port used for main game traffic",
+        "Ref": "GamePort1"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "29900",
+        "Name": "Game Port 1",
+        "Description": "Port used for main game traffic",
+        "Ref": "GamePort1"
+    }
+]

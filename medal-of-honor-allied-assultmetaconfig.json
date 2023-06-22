@@ -1,0 +1,22 @@
+[
+    {
+        "ConfigFile": "admins.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "settings.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "allowedmaps.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "allowedvotes.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "updating",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "Executable",
+        "UpdateSourceData": "/__VDS__MedalofHonor01/medal-of-honor/serverfiles",
+        "UpdateSourceArgs": "+set dedicated 1 +set sv_maxclients 30 +set net_port 12203 +exec server.cfg",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": "false",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

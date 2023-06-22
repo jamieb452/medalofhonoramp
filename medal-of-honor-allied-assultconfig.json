@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Medal of Honor Server",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "medal,of,honor,server",
+        "FieldName": "+set dedicated 1 +set sv_maxclients 64 +set net_ip 0.0.0.0 +set net_port 12203 +exec server.cfg",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "+set dedicated 1 +set sv_maxclients 64 +set net_ip 0.0.0.0 +set net_port 12203 +exec server.cfg",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    }
+]
